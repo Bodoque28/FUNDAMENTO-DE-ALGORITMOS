@@ -10,7 +10,7 @@ namespace SEM_4_PT2
     {
         static void Main(string[] args)
         {
-            ejer3();
+            ejer4();
         }
         static void ejer1()
         {
@@ -39,7 +39,16 @@ namespace SEM_4_PT2
         }
         static void ejer4()
         {
-
+            Console.WriteLine("Ingrese un numero decimal: ");
+            double num = double.Parse(Console.ReadLine());
+            double raiz=Math.Sqrt(num);
+            double redo = Math.Round(num,2);
+            double cubo = Math.Pow(num,3);
+            double raizcubica = Math.Pow(num,1/3d); 
+            Console.WriteLine("Raiz cuaradada: " + raiz);
+            Console.WriteLine("Redondeado: " + redo);
+            Console.WriteLine("Elevado a 3: " + cubo);
+            Console.WriteLine("Raiz cubica: " + raizcubica);
         }
         static void ejer5()
         {

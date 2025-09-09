@@ -13,4 +13,16 @@ def ejer3():
     print("RESTA: ",num1-num2)
     print("MULTIPLICACION: ",num1*num2)
     print("DIVISION: ",num1/num2)
+import math #libreria para calculos
+def ejer4():
+    num=float(input("INGRESE NUMERO DECIMAL: "))
+    raiz=math.sqrt(num)
+    redo=round(num,2)
+    cubo=math.pow(num,3)
+    cubica=num**1/3
+    print("Raiz cuadrada: ", raiz)
+    print("Redondeado: " + redo)
+    print("Elevado a 3: " + cubo)
+    print("Raiz cubica: " + cubica)
+        
 ejer3()
