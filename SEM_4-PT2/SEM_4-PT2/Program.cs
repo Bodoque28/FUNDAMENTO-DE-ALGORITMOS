@@ -52,7 +52,12 @@ namespace SEM_4_PT2
         }
         static void ejer5()
         {
-
+            Console.WriteLine("Ingreese un numero: ");
+            string num = Console.ReadLine();
+            int entero = int.Parse(num);
+            double deci=double.Parse(num);
+            Console.WriteLine("Resto: " + (entero%2));
+            Console.WriteLine("DECIMAL: " + (deci / 3));
         }
         static void ejer6()
         {
