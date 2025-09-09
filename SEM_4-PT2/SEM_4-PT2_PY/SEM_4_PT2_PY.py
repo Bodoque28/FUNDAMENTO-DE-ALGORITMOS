@@ -6,4 +6,11 @@ def ejer1():
 
 def ejer2():
     print("\"EDUARDO :V\"")
-ejer2()
+def ejer3():
+    num1=int (input("Primer Numero: "))
+    num2=int (input("Segundo Numero: "))
+    print("SUMA: ",num1+num2)
+    print("RESTA: ",num1-num2)
+    print("MULTIPLICACION: ",num1*num2)
+    print("DIVISION: ",num1/num2)
+ejer3()
