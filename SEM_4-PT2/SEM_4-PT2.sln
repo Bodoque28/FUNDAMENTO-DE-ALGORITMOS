@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36310.24 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM_4-PT2", "SEM_4-PT2\SEM_4-PT2.csproj", "{4A730884-C0B0-46F8-AFB7-3E2A5C794B7F}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEM_4-PT2_PY", "SEM_4-PT2_PY\SEM_4-PT2_PY.pyproj", "{D8BC824B-39C7-4E48-B821-111670112D0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{4A730884-C0B0-46F8-AFB7-3E2A5C794B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A730884-C0B0-46F8-AFB7-3E2A5C794B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A730884-C0B0-46F8-AFB7-3E2A5C794B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BC824B-39C7-4E48-B821-111670112D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BC824B-39C7-4E48-B821-111670112D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
