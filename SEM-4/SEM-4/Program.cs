@@ -10,7 +10,7 @@ namespace SEM_4
     {
         static void Main(string[] args)
         {
-            doble();
+            ejer1();
         }
         static void BASE()
         {
@@ -57,7 +57,9 @@ namespace SEM_4
             Console.Write("digite sueldo : ");
             double sue = Convert.ToDouble(Console.ReadLine());
             double boni = 0;
-            switch(sue)
+            Console.WriteLine("NUMERO DE HIJOS: ");
+            int hijos = Convert.ToInt32(Console.ReadLine());
+            switch(hijos)
             {case 0: boni = 0  ; break;
                 case 1: boni = 0.05 * sue;break;
                 case 2: boni = 0.1 * sue;break;
@@ -67,7 +69,20 @@ namespace SEM_4
             Console.WriteLine($"BONIFICACION : ${boni}");
             Console.WriteLine($"SUELDO NETO : ${suen}");
         }
-
+        static void ejer1()
+        {
+            Console.Write("AÑOS DE TRABAJO: ");
+            double años = Convert.ToDouble(Console.ReadLine());
+            Console.Write("VENTA TOTALES: ");
+            double venta = Convert.ToDouble(Console.ReadLine());
+            Console.Write("NUMERO DE HIJOS: ");
+            double hijos = Convert.ToDouble(Console.ReadLine());
+            string boni = "no";
+            if (años >= 3) { boni = "SI"; }
+            if (venta>= 3500) { boni = "SI"; }
+            if (hijos != 0) { boni = "SI"; }
+            Console.WriteLine($"\n Usted {boni} recibe bonificacion ");
+        }
 
     }
 
