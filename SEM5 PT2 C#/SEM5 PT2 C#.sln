@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM5 PT2 C#", "SEM5 PT2 C#.csproj", "{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEM 5 PT 2 PY", "..\SEM 5 PT 2 PY\SEM 5 PT 2 PY.pyproj", "{83C63070-1776-424E-9E16-54BD19B3D5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C63070-1776-424E-9E16-54BD19B3D5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C63070-1776-424E-9E16-54BD19B3D5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF06FA79-E912-435B-865C-A28139416464}
+	EndGlobalSection
+EndGlobal

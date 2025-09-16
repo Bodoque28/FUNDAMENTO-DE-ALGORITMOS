@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|c:\\users\\upn\\desktop\\work\\fundamento-de-algoritmos\\sem_5\\sem5 pt2 c#\\ejer3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|solutionrelative:ejer3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|c:\\users\\upn\\desktop\\work\\fundamento-de-algoritmos\\sem_5\\sem5 pt2 c#\\ejer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|solutionrelative:ejer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SEM5 PT2 C#||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|c:\\users\\upn\\desktop\\work\\fundamento-de-algoritmos\\sem_5\\sem5 pt2 c#\\ejer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|solutionrelative:ejer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|c:\\users\\upn\\desktop\\work\\fundamento-de-algoritmos\\sem_5\\sem5 pt2 c#\\ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|solutionrelative:ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A788095-0FA3-40E3-AA66-6FFAF9AC7BAA}|SEM5 PT2 C#.csproj|c:\\users\\upn\\desktop\\work\\fundamento-de-algoritmos\\sem_5\\sem5 pt2 c#\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SEM5 PT2 C#",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\SEM5 PT2 C#.csproj",
+              "RelativeDocumentMoniker": "SEM5 PT2 C#.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\SEM5 PT2 C#.csproj*",
+              "RelativeToolTip": "SEM5 PT2 C#.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-16T16:29:44.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejer4.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\Ejer4.cs",
+              "RelativeDocumentMoniker": "Ejer4.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\Ejer4.cs",
+              "RelativeToolTip": "Ejer4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:24:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejer3.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\ejer3.cs",
+              "RelativeDocumentMoniker": "ejer3.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\ejer3.cs",
+              "RelativeToolTip": "ejer3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:24:36.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejer2.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\Ejer2.cs",
+              "RelativeDocumentMoniker": "Ejer2.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\Ejer2.cs",
+              "RelativeToolTip": "Ejer2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:24:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejer1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\Ejer1.cs",
+              "RelativeDocumentMoniker": "Ejer1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\work\\FUNDAMENTO-DE-ALGORITMOS\\SEM_5\\SEM5 PT2 C#\\Ejer1.cs",
+              "RelativeToolTip": "Ejer1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:24:06.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
