@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\obj\Debug\SEM_5 PT1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\obj\Debug\SEM_5 PT1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\bin\Debug\SEM_5 PT1.exe.config
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\bin\Debug\SEM_5 PT1.exe
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\bin\Debug\SEM_5 PT1.pdb
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\obj\Debug\SEM_5 PT1.exe
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\obj\Debug\SEM_5 PT1.pdb
+C:\Users\UPN\Desktop\SEM_5\SEM_5 PT1\obj\Debug\SEM_5 PT1.exe.config

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\SEM_5\\SEM_5 PT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC386910-E512-4BE7-99ED-304F10AD13F7}|SEM_5 PT1.csproj|c:\\users\\upn\\desktop\\sem_5\\sem_5 pt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC386910-E512-4BE7-99ED-304F10AD13F7}|SEM_5 PT1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFE8484-5482-4055-976D-21C564C8CC22}|..\\SEM_5 PT1 PY\\SEM_5 PT1 PY.pyproj|C:\\Users\\UPN\\Desktop\\SEM_5\\SEM_5 PT1 PY\\SEM_5_PT1_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEM_5\\SEM_5 PT1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEM_5\\SEM_5 PT1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:39:13.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SEM_5_PT1_PY.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEM_5\\SEM_5 PT1 PY\\SEM_5_PT1_PY.py",
+              "RelativeDocumentMoniker": "..\\SEM_5 PT1 PY\\SEM_5_PT1_PY.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEM_5\\SEM_5 PT1 PY\\SEM_5_PT1_PY.py",
+              "RelativeToolTip": "..\\SEM_5 PT1 PY\\SEM_5_PT1_PY.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-16T14:47:40.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
