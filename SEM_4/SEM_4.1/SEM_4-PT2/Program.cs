@@ -10,7 +10,23 @@ namespace SEM_4_PT2
     {
         static void Main(string[] args)
         {
-            ejer4();
+            Console.Write("DIGITE EDAD: ");
+            int edad = int.Parse(Console.ReadLine());
+            if (edad < 18)
+            {
+                Console.WriteLine("MENOR DE EDAD");
+            }
+            else
+            {
+                if (edad <= 64)
+                {
+                    Console.Write("Adulto");
+                }
+                else
+                {
+                    Console.Write("Adulto mayor");
+                }
+            }
         }
         static void ejer1()
         {
